@@ -1,0 +1,32 @@
+{
+  "DPMods_Security": {
+    "App_Status": {
+      "Admin_URL": "https://t.me/dp_mods",
+      "Dialog_Title": "🔐 ID Login Parle",
+      "Dialog_Subtitle": "Parle LH SFA3.0 PRD",
+      "Maintenance": false,
+      "Update_Required": false,
+      "Update_Link": "https://t.me/dp_mods"
+    },
+    "Keys": {
+      "MY-PARLE-KEY-1": {
+        "Banned": false,
+        "DeviceLimit": 1,
+        "ExpiryDate": "2025-10-20",
+        "Username": "Admin",
+        "Devices": {
+          "dummy": 0
+        }
+      },
+      "TEST-KEY": {
+        "Banned": false,
+        "DeviceLimit": 1,
+        "ExpiryDate": "2026-12-31",
+        "Username": "FieldAgent",
+        "Devices": {
+          "dummy": 0
+        }
+      }
+    }
+  }
+}
