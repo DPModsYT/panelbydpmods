@@ -1,30 +1,31 @@
 {
   "DPMods_Security": {
     "App_Status": {
-      "Admin_URL": "https://t.me/dp_mods",
       "Dialog_Title": "🔐 ID Login Parle",
       "Dialog_Subtitle": "Parle LH SFA3.0 PRD",
       "Maintenance": false,
+      "Maintenance_Msg": "Server is under maintenance.",
       "Update_Required": false,
-      "Update_Link": "https://t.me/dp_mods"
+      "Update_Link": "https://t.me/dp_mods",
+      "Update_Msg": "A critical update is available."
     },
     "Keys": {
       "MY-PARLE-KEY-1": {
-        "Banned": false,
-        "DeviceLimit": 1,
-        "ExpiryDate": "2025-10-20",
         "Username": "Admin",
+        "Banned": false,
+        "ExpiryDate": "2026-12-31",
+        "DeviceLimit": 1,
         "Devices": {
-          "dummy": 0
+          "8fabcdee42172701": "Active"
         }
       },
-      "TEST-KEY": {
+      "NEW-USER-KEY": {
+        "Username": "Field Agent 007",
         "Banned": false,
+        "ExpiryDate": "2026-10-20",
         "DeviceLimit": 1,
-        "ExpiryDate": "2026-12-31",
-        "Username": "FieldAgent",
         "Devices": {
-          "dummy": 0
+          "PASTE_THEIR_COPIED_HWID_HERE": "Active"
         }
       }
     }
